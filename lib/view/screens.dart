@@ -1,0 +1,9 @@
+export 'page/splash_screen.dart/splash_screen.dart';
+export 'page/login/login_page.dart';
+export 'page/home/home_page.dart';
+export 'page/chats/chat_page.dart';
+export 'page/party/party_page.dart';
+export 'page/love/love_page.dart';
+export 'page/profile/profile_page.dart';
+export 'page/shared/navigate.dart';
+export 'page/setting/setting_page.dart';
