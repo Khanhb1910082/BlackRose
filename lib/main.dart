@@ -1,7 +1,7 @@
 import 'package:blackrose/routes/app.routes.dart';
 import 'package:blackrose/utils/app.provider.dart';
 import 'package:blackrose/view/page/login/test.dart';
-import 'package:blackrose/view/page/setting/setting_profile/edit_username.dart';
+import 'package:blackrose/view/page/register/edit_username.dart';
 import 'package:blackrose/view/page/setting/setting_profile/test_background.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_meedu_videoplayer/init_meedu_player.dart';
